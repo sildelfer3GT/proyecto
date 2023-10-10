@@ -1,3 +1,3 @@
 # proyecto
 version2.1
-Nombre de ka base de datos: Matriz
+Nombre de la base de datos: Matriz
